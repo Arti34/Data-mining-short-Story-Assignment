@@ -1,10 +1,10 @@
 # Data-mining-short-Story-Assignment
 
 Medium article: 
-# CLUBench: A Clustering Benchmark — CMPE 255 Short Story
+# CLUBench: A Clustering Benchmark - CMPE 255 Short Story
 
 **Student:** Arti Ramesh Nalawade  
-**Course:** CMPE 255 — Data Mining  
+**Course:** CMPE 255 - Data Mining  
 **Research paper:** [CLUBench: A Clustering Benchmark (2026)](https://arxiv.org/abs/2605.29933)  
 **Conference:** ACM SIGKDD 2026 (accepted, per authors' repository)
 
