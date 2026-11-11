@@ -1,6 +1,5 @@
-# Data-mining-short-Story-Assignment
+# Data Mining Short Story Assignment
 
-Medium article: 
 # CLUBench: A Clustering Benchmark - CMPE 255 Short Story
 
 **Student:** Arti Ramesh Nalawade  
